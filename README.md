@@ -95,6 +95,5 @@ I am **not an expert**, but I’m learning consistently — understanding blockc
 <div align="center">
 
 ### ✨ “Learning blockchain security one block at a time.”  
-A simple profile with honest work > a flashy one with no depth.
 
 </div>
