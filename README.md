@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🛡️ Rohit Kumar Singh  
-### Cybersecurity Trainer → Aspiring Blockchain Security Engineer  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:3b0cff&height=130&section=header&text=Rohit%20Kumar%20Singh&fontColor=ffffff&fontSize=35&fontAlign=50&fontAlignY=70" />
 
+### Cybersecurity Trainer → Aspiring Blockchain Security Engineer  
 **Learning Smart Contract Security | Exploring Web3 | Building Step-by-Step**
 
 <img src="https://img.shields.io/badge/Web3-Learner-blueviolet?style=for-the-badge"/>
