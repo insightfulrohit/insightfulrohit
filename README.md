@@ -60,8 +60,9 @@ I am **not an expert**, but I’m learning consistently — understanding blockc
 ---
 
 ## 🚧 Projects (Beginner-Level Work)
-- **Techy (In Progress):** A Python-based tech detection tool (WAF, versions, WHOIS).  
-- **ParaGen:** Multilingual paraphrasing using Python + Transformers.  
+- **ZENITH:** ZENITH is a free, offline Python desktop app that helps you build powerful daily habits, manage tasks, set life goals, and journal your thoughts — all in one beautiful place. With live streaks, analytics, mood tracking, and daily quotes, ZENITH turns small consistent actions into extraordinary results. No internet. No account. Just growth.  
+- **ChainPulse:** Developed ChainPulse, a Python-based blockchain news aggregator with a custom Tkinter GUI, featuring real-time RSS ingestion from multiple crypto sources, keyword-based filtering, and in-app Hindi translation via the MyMemory API.
+Engineered a zero-dependency desktop news dashboard integrating live data pipelines, dynamic card-based UI rendering, and multi-threaded async fetching to deliver a responsive, category-filtered blockchain intelligence tool.  
 - **Blockchain Learning Repos:**  
   - Basic Solidity practice  
   - Vulnerability demos (coming soon)  
